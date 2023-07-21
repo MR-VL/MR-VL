@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, im MR-VL and I am a university student, I created this github in order to display my projects and my accomplishments in coding. 
 [![MR-VL GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-VL)](https://github.com/MR-VL/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-VL&layout=pie)](https://github.com/MR-VL/github-readme-stats)
 <!--
