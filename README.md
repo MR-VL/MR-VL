@@ -1,5 +1,5 @@
 <!--[![MR-VL GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-VL)](https://github.com/MR-VL/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats-9luyt8nk6-mr-vls-projects.vercel.app/api/top-langs/?username=MR-VL&layout=pie)](https://github.com/MR-VL/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&layout=pie)](https://github.com/MR-VL/github-readme-stats)
 <!--
 **MR-VL/MR-VL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
