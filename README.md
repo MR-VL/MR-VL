@@ -16,16 +16,6 @@
 </div>
 <h1 align="center">Hey There, I'm MR-VL</h1>
 
-<div style="display: flex; justify-content: space-around; align-items: stretch;">
-    <h4>Follow Me on Linkedin</h4>
-
-  <a href="https://www.linkedin.com/in/vlad-serban-0911022ab/" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png"  height="40" alt="linkedin logo"  />
-  </a>
-
-</div>
-
-
 <img src="https://raw.githubusercontent.com/zSnails/zSnails/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">🛠 Languages and tools</h3>
