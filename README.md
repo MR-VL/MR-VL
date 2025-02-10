@@ -23,7 +23,6 @@
  
 
 <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />
-<img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo" />
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
 <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
