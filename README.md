@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hey There, I'm MR-VL</h1>
+  <h1>Hey There, I'm MR-VL 👋</h1>
 
   <table style="margin: 0 auto;">
     <tr>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <h1>My Contributions</h1>
+  <h1>✨My Contributions✨</h1>
 </p>
 
 
