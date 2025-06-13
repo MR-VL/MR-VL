@@ -17,7 +17,8 @@
 <h1 align="center">Hey There, I'm MR-VL</h1>
 
 <!--<img src="https://raw.githubusercontent.com/zSnails/zSnails/output/snake.svg" alt="Snake animation" />-->
-![Snake animation](https://github.com/MR-VL/snk/blob/output/github-contribution-grid-snake-custom.svg)
+![Snake animation](https://github.com/MR-VL/MR-VL/blob/output/github-contribution-grid-snake-custom.svg)
+
 
 
 
