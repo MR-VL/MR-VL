@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: MR-VL
           outputs: |
-            dist/github-contribution-grid-snake-custom.svg?color_snake=#00FF00&color_dots=#f3e5f5,#e1bee7,#ce93d8,#ba68c8,#9c27b0
+            dist/github-contribution-grid-snake-custom.svg?color_snake=#00FF00&color_dots=#4B0082,#551A8B,#6A0DAD,#7B1FA2,#9C27B0
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
