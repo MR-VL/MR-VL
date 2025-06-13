@@ -1,10 +1,10 @@
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <div style="text-align: left; display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap;">
+  <div style="text-align: center; margin-bottom: 20px;">
     <a href="https://github.com/mr-vl/github-profile-trophy">
       <img width="350" src="https://github-profile-trophy.vercel.app/?username=mr-vl&row=2&column=3&theme=gruvbox&no-frame=true" />
     </a>
   </div>
-  <div style="display: flex; align-items: center;">
+  <div style="text-align: center;">
     <picture>
       <source
         srcset="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie&theme=dark&langs_count=20"
@@ -14,7 +14,8 @@
     </picture>
   </div>
 </div>
-<h1 align="center">Hey There, I'm MR-VL</h1>
+
+
 
 <!--<img src="https://raw.githubusercontent.com/zSnails/zSnails/output/snake.svg" alt="Snake animation" />-->
 ![Snake animation](https://github.com/MR-VL/MR-VL/blob/output/github-contribution-grid-snake-custom.svg)
