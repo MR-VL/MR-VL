@@ -7,7 +7,7 @@
   <div style="display: flex; align-items: center;">
     <picture>
       <source
-        srcset="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie&theme=dark&langs_count=20&exclude_repo=yt-transcript,sherlock"
+        srcset="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie&theme=dark&langs_count=20"
         media="(prefers-color-scheme: dark)"
       />
       <img width="350" src="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie" />
