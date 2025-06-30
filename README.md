@@ -11,7 +11,7 @@
       <td align="center" style="padding-left: 30px;">
         <picture>
           <source
-            srcset="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie&theme=dark&langs_count=20"
+            srcset="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie&theme=dark&langs_count=20&exclude_repo=CIC-IoT2023"
             media="(prefers-color-scheme: dark)"
           />
           <img width="380" src="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie" />
