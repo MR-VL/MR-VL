@@ -8,15 +8,10 @@
           <img width="380" src="https://github-profile-trophy.vercel.app/?username=mr-vl&row=2&column=3&theme=gruvbox&no-frame=true" />
         </a>
       </td>
-      <td align="center" style="padding-left: 30px;">
-        <picture>
-          <source
-            srcset="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie&theme=dark&langs_count=20&exclude_repo=CIC-IoT2023,yt-dlp-android&v=2"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img width="380" src="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie" />
-        </picture>
-      </td>
+     <td align="center" style="padding-left: 30px;">
+  <img width="380"
+    src="https://github-readme-stats-two-gamma-89.vercel.app/api/top-langs/?username=MR-VL&show_icons=true&locale=en&layout=pie&theme=dark&langs_count=20&exclude_repo=CIC-IoT2023,yt-dlp-android&v=2" />
+</td>
     </tr>
   </table>
 </p>
