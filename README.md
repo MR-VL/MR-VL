@@ -66,12 +66,12 @@
   <!-- <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo" /> -->
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo" /> -->
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" /> -->
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <!-- <img src="https://skillicons.dev/icons?i=rider" height="40" alt="rider logo" /> -->
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
