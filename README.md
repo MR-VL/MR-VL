@@ -33,22 +33,22 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion logo" /> -->
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian logo" />
   <!-- <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" /> -->
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo" /> -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /> -->
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo" /> -->
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo" />
   <!-- <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" /> -->
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo" />
   <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" /> -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
   <!-- <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo" /> -->
